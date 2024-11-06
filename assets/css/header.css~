@@ -75,14 +75,7 @@ body.dark-mode .navbar.navbar-scrolled .btn {
 .navbar.scrolled {
     padding: 0.5rem 2rem;
 }
-.navbar-brand img {
-    height: 90px;
-    width: auto;
-    transition: all 0.3s ease;
-}
-.navbar.scrolled .navbar-brand img {
-    height: 50px;
-}
+
 .navbar .navbar-nav {
     transition: all 0.3s ease;
     margin-left: auto;

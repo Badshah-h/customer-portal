@@ -292,9 +292,7 @@
 <section class="section-padding service-cards">
     <div class="container">
         <div class="row align-items-center">
-            <div class="text-start mb-5" >
-                <h2>Our <span class="text-yellow-500 footer-heading" style="font-weight: 600; font-size: 1.1em;">Services</span></h2>
-            </div>
+            <!-- Left Column: Scrollable Services -->
             <div class="col-md-7">
                 <div class="service-scroll-container">
                     <div class="service-grid">

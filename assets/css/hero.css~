@@ -5,7 +5,7 @@
     align-items: center;
     position: relative;
     margin: 0; /* Remove margin */
-    padding: 100px; /* Remove padding */
+    padding: 0; /* Remove padding */
 }
 .hero-content {
     text-align: center;

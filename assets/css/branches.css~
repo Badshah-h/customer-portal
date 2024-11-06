@@ -5,7 +5,6 @@
                 display: flex;
                 align-items: center;
                 background-color: var(--bg-color);
-                margin: 0;
             }
 
 
